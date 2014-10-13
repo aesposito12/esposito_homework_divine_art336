@@ -4,7 +4,6 @@ Base Rules
 */ 
 
 body {
-    background-image: linear-gradient(#b0d0b6);
     font-family: 'Oxygen', serif;
     font-size: 14px;
     line-height: 1.4;
@@ -12,18 +11,12 @@ body {
     max-width: 550px;
     width: 100%;
 }
-html { 
-  background: url(img/i-am-divine-2013.jpg) no-repeat center center fixed; 
-  background-size: cover;
- background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 
 h1 {
     font-family: 'Merriweather', serif;
     font-size: 50px;
-    margin-bottom: 12px;
+    margin-bottom: 50px;
     margin-left:50px;
     text-transform: capitalize;
     
@@ -31,7 +24,7 @@ h1 {
 img{
     height: auto;
     max-width:100%;
-    margin:0;
+    margin-left:12px;
 }
 
 
